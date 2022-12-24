@@ -1,4 +1,4 @@
 #Environments
 .venv/
 .env/
-settings_local.py
+settings_local.py/
